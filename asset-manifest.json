@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/landing_light/static/css/main.ae235df5.css",
+    "main.js": "/landing_light/static/js/main.fc6f69b9.js",
+    "static/media/paypal.png": "/landing_light/static/media/paypal.e7bf2de6f0c684c60720.png",
+    "static/media/profile.svg": "/landing_light/static/media/profile.3a615ec4d935f7a0c4e4d73912dede58.svg",
+    "static/media/discover.png": "/landing_light/static/media/discover.ca7194010d3bab9f722d.png",
+    "static/media/chip.svg": "/landing_light/static/media/chip.7d7cf0aafbee17fdb89ba8f4e4dc72f7.svg",
+    "static/media/Visa.jpg": "/landing_light/static/media/Visa.3927607cff89d286ac8f.jpg",
+    "index.html": "/landing_light/index.html",
+    "static/media/master.svg": "/landing_light/static/media/master.2dc3af169d0ace2ecc573b6439f2e611.svg",
+    "main.ae235df5.css.map": "/landing_light/static/css/main.ae235df5.css.map",
+    "main.fc6f69b9.js.map": "/landing_light/static/js/main.fc6f69b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae235df5.css",
+    "static/js/main.fc6f69b9.js"
+  ]
+}
